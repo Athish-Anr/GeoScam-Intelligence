@@ -1,0 +1,2 @@
+# GeoScam-Intelligence
+ML project
